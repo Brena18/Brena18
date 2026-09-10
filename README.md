@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ### ⛩️ **Vitoria** · Desenvolvedora ⛩️
 
 *Fluig · TOTVS RM · JavaScript · SQL Server*
@@ -45,7 +44,7 @@ habilidade_passiva: "transformar processo manual em workflow"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Brena18/Brena18/output/snake.svg" alt="snake">
+<img src="assets/snake.svg" alt="snake" width="100%">
 
 <br><br>
 
