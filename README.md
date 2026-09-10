@@ -1,8 +1,9 @@
 <div align="center">
 
-# ⛩️ **Vitoria** · Desenvolvedora
 
-*Fluig · TOTVS RM · JavaScript*
+### ⛩️ **Vitoria** · Desenvolvedora ⛩️
+
+*Fluig · TOTVS RM · JavaScript · SQL Server*
 
 </div>
 
@@ -16,7 +17,6 @@ classe: Desenvolvedora de Sistemas
 elemento: JavaScript
 arma_principal: Fluig + TOTVS RM
 mana: SQL Server
-missao_atual: "SEU-TEMA-DE-ESTUDO"
 habilidade_passiva: "transformar processo manual em workflow"
 ```
 
@@ -26,14 +26,32 @@ habilidade_passiva: "transformar processo manual em workflow"
 
 ---
 
-## 🎴 Grimório
+## 🎴 Grimório de tecnologias
 
-| Categoria | Tecnologias |
-|---|---|
-| **Linguagens** | JavaScript, SQL, HTML, CSS |
-| **Plataformas** | Fluig, TOTVS RM |
-| **Banco de dados** | SQL Server |
-| **Ferramentas** | Git, VS Code |
+<div align="center">
+
+<img align="center" alt="JavaScript" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="center" alt="SQL Server" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img align="center" alt="HTML5" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="center" alt="Git" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="VS Code" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+
+</div>
+
+---
+
+## ⚡ Registro de batalhas
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Brena18/Brena18/output/snake.svg" alt="snake">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Brena18&hide_border=true&theme=tokyonight&background=1A1B27&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" alt="streak">
+
+</div>
 
 ---
 
